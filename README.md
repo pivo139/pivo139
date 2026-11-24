@@ -10,7 +10,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo na área de **A
 - 🔍 **Tratamento & Qualidade de Dados:** Atuação na coleta, limpeza e preparação de dados garantindo consistência para análises.
 - ⚙️ **Processos de ETL:** Execução de pipelines de Extração, Transformação e Carregamento para integração e atualização de bases operacionais e analíticas.
 - 📈 **Análise Exploratória & BI:** Identificação de padrões, tendências e criação de relatórios visuais no Power BI e Python voltados para a performance de negócio.
-- 🗂️ **Modelagem & NoSQL:** Experiência prática com bancos de dados relacionais e não-relacionais, além de desenvolvimento com **C#**.
+- 🗂️ **Modelagem & NoSQL:** Experiência prática com bancos de dados relacionais e não-relacionais, além de desenvolvimento com **Python**.
 - 📑 **Documentação:** Rastreabilidade e organização de fluxos de dados e processos.
 
 ---
